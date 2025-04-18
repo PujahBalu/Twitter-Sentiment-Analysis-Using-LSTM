@@ -26,3 +26,9 @@ This project performs sentiment classification on tweets using an LSTM-based neu
 - Text preprocessing (cleaning, tokenization, stopword removal)
 - LSTM for sequence modeling
 - Model evaluation with test accuracy and confusion matrix
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
